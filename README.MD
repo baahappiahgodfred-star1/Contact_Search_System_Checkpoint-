@@ -20,3 +20,7 @@ python main.py
 
 ## note
 i used simple substring search (not advanced)
+
+## Author
+
+**GODFRED APPIAH BAAH**
